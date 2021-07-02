@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: '...',
     title: 'ANH YÊU EM!!',
     desc: 'đến khi nào đầu anh bạc tóc thì anh vẫn yêu em ><',
-    btnYes: 'Do you want to biuld the snowman?',
+    btnYes: 'Do you want to build the snowman?',
     btnNo: 'Wth, không nha!',
     question:'Đi đâu có tuyết nhỉ?',
     btnReply: 'Gửi cho anh <3',
