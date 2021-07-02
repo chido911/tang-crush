@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Do you want to build the snowman?',
     btnNo: 'Wth, không nha!',
     question:'Đi đâu có tuyết nhỉ?',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'Gửi cho tớ <3',
     reply: 'ĐI NHÀ NGHỈ',
     mess: 'No no, nhà nghỉ thì sao có tuyết được?',
     messDesc: 'Mà cậu muốn đi thì tớ qua đón!!',
